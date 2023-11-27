@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./ej1/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "package-name": "^0.1.0"
+  }
+}
